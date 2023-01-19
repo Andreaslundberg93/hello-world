@@ -1,3 +1,6 @@
 # hello-world
 repo with hello-world
-<H1>Hi MY name is Andreas, and on tuesday I'll be 30 years !</H1>
+<H1>Nu skrev jag lite från Git</H1>
+
+
+nu skrev jag lite text lokalt
